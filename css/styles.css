@@ -11,7 +11,11 @@ html, body {
 div.wrap {
   max-width: 960px;
   padding: 0 15px;
-  margin: 0 auto;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 30px;
+  width:70%;
+  background-color:rgba(250,250,250,1);
 }
 
 div.center70
